@@ -23,8 +23,8 @@ class Characters{
         this.clothing = new ArrayList();
     }
 
-    public int is_hungry(){
-
+    public int is_hungry(int hungry){
+        
     }
 
     public int is_thirsty(){
